@@ -22,6 +22,7 @@
 ║   [+] Cybersecurity Learner                                      ║
 ║   [+] Security Research Enthusiast                               ║
 ║   [+] Practical Lab Practitioner                                 ║
+║   [+] CTF Player                                                 ║
 ║   [+] Security Tool Developer                                    ║
 ║   [>] Exploring Vulnerabilities & Building Secure Systems        ║
 ╚══════════════════════════════════════════════════════════════════╝
