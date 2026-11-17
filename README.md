@@ -238,13 +238,13 @@ class CyberKairox:
 
 <div align="center">
   <a href="https://github.com/cyberKairox">
-    <img src="https://github-profile-trophy.vercel.app/?username=cyberKairox&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="GitHub Trophies" />
+    <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=cyberKairox&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="GitHub Trophies" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/cyberKairox">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cyberKairox&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF" alt="CyberKairox Stats" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=cyberKairox&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF" alt="CyberKairox Stats" />
   </a>
   <a href="https://github.com/cyberKairox">
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberKairox&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="CyberKairox Streak" />
@@ -253,7 +253,7 @@ class CyberKairox:
 
 <div align="center">
   <a href="https://github.com/cyberKairox">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberKairox&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF" alt="Top Languages" />
+    <img width="60%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cyberKairox&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF" alt="Top Languages" />
   </a>
 </div>
 
@@ -277,9 +277,9 @@ class CyberKairox:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyberKairox/cyberKairox/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyberKairox/cyberKairox/output/github-contribution-grid-snake.svg">
-    <img alt="CyberKairox Contribution Snake Animation" src="https://raw.githubusercontent.com/cyberKairox/cyberKairox/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyberKairox/cyberKairox/main/assets/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyberKairox/cyberKairox/main/assets/snake-light.svg">
+    <img alt="CyberKairox Contribution Snake Animation" src="https://raw.githubusercontent.com/cyberKairox/cyberKairox/main/assets/snake-dark.svg" width="100%">
   </picture>
 </div>
 

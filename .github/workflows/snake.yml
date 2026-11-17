@@ -1,0 +1,34 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Run every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: cyberKairox
+          outputs: |
+            assets/snake-light.svg
+            assets/snake-dark.svg?palette=github-dark
+
+      - name: Commit & Push Snake SVG
+        run: |
+          git config --local user.email "186819593+cyberKairox@users.noreply.github.com"
+          git config --local user.name "KairoX"
+          git add assets/snake-light.svg assets/snake-dark.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update contribution snake animation [skip ci]" && git push)
